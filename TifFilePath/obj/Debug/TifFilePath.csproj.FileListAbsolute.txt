@@ -1,0 +1,7 @@
+C:\Users\santh\source\repos\TifFilePath\TifFilePath\bin\Debug\TifFilePath.exe.config
+C:\Users\santh\source\repos\TifFilePath\TifFilePath\bin\Debug\TifFilePath.exe
+C:\Users\santh\source\repos\TifFilePath\TifFilePath\bin\Debug\TifFilePath.pdb
+C:\Users\santh\source\repos\TifFilePath\TifFilePath\obj\Debug\TifFilePath.csprojAssemblyReference.cache
+C:\Users\santh\source\repos\TifFilePath\TifFilePath\obj\Debug\TifFilePath.csproj.CoreCompileInputs.cache
+C:\Users\santh\source\repos\TifFilePath\TifFilePath\obj\Debug\TifFilePath.exe
+C:\Users\santh\source\repos\TifFilePath\TifFilePath\obj\Debug\TifFilePath.pdb
